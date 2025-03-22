@@ -1,0 +1,14 @@
+C:\ArbolProyecto\ArbolProyecto\bin\Debug\net9.0\ArbolProyecto.exe
+C:\ArbolProyecto\ArbolProyecto\bin\Debug\net9.0\ArbolProyecto.deps.json
+C:\ArbolProyecto\ArbolProyecto\bin\Debug\net9.0\ArbolProyecto.runtimeconfig.json
+C:\ArbolProyecto\ArbolProyecto\bin\Debug\net9.0\ArbolProyecto.dll
+C:\ArbolProyecto\ArbolProyecto\bin\Debug\net9.0\ArbolProyecto.pdb
+C:\ArbolProyecto\ArbolProyecto\obj\Debug\net9.0\ArbolProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArbolProyecto\ArbolProyecto\obj\Debug\net9.0\ArbolProyecto.AssemblyInfoInputs.cache
+C:\ArbolProyecto\ArbolProyecto\obj\Debug\net9.0\ArbolProyecto.AssemblyInfo.cs
+C:\ArbolProyecto\ArbolProyecto\obj\Debug\net9.0\ArbolProyecto.csproj.CoreCompileInputs.cache
+C:\ArbolProyecto\ArbolProyecto\obj\Debug\net9.0\ArbolProyecto.dll
+C:\ArbolProyecto\ArbolProyecto\obj\Debug\net9.0\refint\ArbolProyecto.dll
+C:\ArbolProyecto\ArbolProyecto\obj\Debug\net9.0\ArbolProyecto.pdb
+C:\ArbolProyecto\ArbolProyecto\obj\Debug\net9.0\ArbolProyecto.genruntimeconfig.cache
+C:\ArbolProyecto\ArbolProyecto\obj\Debug\net9.0\ref\ArbolProyecto.dll
